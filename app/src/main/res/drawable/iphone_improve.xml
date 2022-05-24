@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/iphone_6_silver_1" android:duration="100"></item>
+    <item android:drawable="@drawable/iphone_7_vang_didongviet" android:duration="100"></item>
+    <item android:drawable="@drawable/iphone_8_64gb_hh_600x600" android:duration="100"></item>
+    <item android:drawable="@drawable/iphone_x_64gb_hh_600x600" android:duration="100"></item>
+    <item android:drawable="@drawable/apple_iphone_11_64gb_6_1" android:duration="100"></item>
+    <item android:drawable="@drawable/iphone_12_mini_select_2021" android:duration="100"></item>
+    <item android:drawable="@drawable/iphone_13_blue_1_600x600" android:duration="100"></item>
+</animation-list>
